@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Title One",
+      "detail": "Detail One",
+      "tags": [
+        "web dev",
+        "js"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Title Two",
+      "detail": "Detail Two",
+      "tags": [
+        "web dev",
+        "js",
+        "vue js"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Title Three",
+      "detail": "Detail Three",
+      "tags": [
+        "web dev",
+        "php",
+        "laravel"
+      ]
+    },
+    {
+      "title": "Title Four",
+      "detail": "Detail Four",
+      "tags": [
+        "api",
+        "database",
+        "json"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Post Five",
+      "detail": "Detail Five",
+      "tags": [
+        "php",
+        "symphony"
+      ],
+      "id": 5
+    },
+    {
+      "title": "test",
+      "detail": "test",
+      "tags": [
+        "test",
+        "tag"
+      ],
+      "id": 6
+    }
+  ]
+}
